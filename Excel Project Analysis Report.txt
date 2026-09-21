@@ -12,32 +12,20 @@ Analysis Performed
 Pivot Tables were used to analyze:
 
 Total purchase amount
-
 Average customer rating
-
 Number of unique customers
-
 Top-performing products
-
 Purchase amounts by age group
-
 Purchases by season
-
 Payment methods used by customers
 
 Key Findings
 Total purchase amount analyzed: $164,202
-
 Average customer rating: 3.83
-
 Total unique customers: 2,761
-
 Dress generated the highest purchase amount among the top five items, at $7,403.
-
 The 60–70 age group recorded the highest purchase amount at $38,959.
-
 Fall had the highest share of purchases at approximately 26.1%.
-
 Debit Card was the most frequently used payment method at approximately 35.6%.
 
 Conclusion
