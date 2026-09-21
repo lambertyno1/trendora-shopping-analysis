@@ -49,18 +49,3 @@ The analysis provided useful insights into customer purchasing patterns, product
 
 - `Shopping_Data_Analysis.xlsx` – Excel project file
 - `Analysis_Report.pdf` – Project analysis report
-- `screenshots/` – Screenshots of the analysis and dashboard
-
-## Screenshots
-
-### Cleaned Dataset
-
-![Cleaned Dataset](screenshots/cleaned-data.png)
-
-### Pivot Table Analysis
-
-![Pivot Table](screenshots/pivot-table.png)
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
