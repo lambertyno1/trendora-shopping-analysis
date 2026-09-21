@@ -1,0 +1,44 @@
+Excel Project Analysis Report
+Project Title
+Shopping Customer Data Analysis
+
+Objective
+The objective of this project was to clean and analyze customer shopping data using Microsoft Excel and generate useful business insights from the dataset.
+
+Data Preparation
+The dataset was cleaned and organized before analysis. The cleaned data contains customer information such as age group, gender, items purchased, category, purchase amount, location, season, rating, subscription status, shipping type, payment method, and discount value.
+
+Analysis Performed
+Pivot Tables were used to analyze:
+
+Total purchase amount
+
+Average customer rating
+
+Number of unique customers
+
+Top-performing products
+
+Purchase amounts by age group
+
+Purchases by season
+
+Payment methods used by customers
+
+Key Findings
+Total purchase amount analyzed: $164,202
+
+Average customer rating: 3.83
+
+Total unique customers: 2,761
+
+Dress generated the highest purchase amount among the top five items, at $7,403.
+
+The 60–70 age group recorded the highest purchase amount at $38,959.
+
+Fall had the highest share of purchases at approximately 26.1%.
+
+Debit Card was the most frequently used payment method at approximately 35.6%.
+
+Conclusion
+The Excel analysis provided insights into customer purchasing patterns, product performance, age-group spending, seasonal purchasing, and payment preferences. These findings can support business decisions relating to products, customers, and sales strategies.
